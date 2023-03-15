@@ -18,7 +18,6 @@
   <build>
     <finalName>login-webapp</finalName>
   </build>
-</project>
 <dependencies>
     <dependency>
         <groupId>javax.servlet</groupId>
@@ -39,3 +38,4 @@
         <scope>provided</scope>
     </dependency>
 </dependencies>
+</project>
