@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Login</title>
+	<title>Amit's Login page</title>
 </head>
 <body>
-	<h1>Login</h1>
+	<h1>Sign in</h1>
 	<form method="post" action="login">
 		<label>Username:</label>
 		<input type="text" name="username"><br>
